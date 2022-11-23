@@ -22,7 +22,7 @@ See the link https://www.resume.id/azu369yu
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yu0614&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" />
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu0614&layout=compact&theme=algolia" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu0614&layout=compact&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />
  </a>
 </div>
 
